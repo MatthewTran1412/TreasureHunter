@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"->":"Quest1"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"Quest1":[["^Not yet, not enough requirements.","\n","ev","str","^Close","/str","/ev",{"*":".^.c-0","flg":20},{"c-0":["\n","end",{"#f":5}]}],{"#f":1}],"#f":1}],"listDefs":{}}
